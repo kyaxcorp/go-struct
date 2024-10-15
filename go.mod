@@ -4,7 +4,7 @@ go 1.21.0
 
 require (
 	github.com/google/uuid v1.6.0
-	github.com/kyaxcorp/go-helper v1.0.2
+	github.com/kyaxcorp/go-helper v1.0.4
 	github.com/kyaxcorp/gofm v0.0.1-20220707-0001
 )
 
